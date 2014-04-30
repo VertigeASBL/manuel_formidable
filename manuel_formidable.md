@@ -36,7 +36,7 @@ NB : un message apparaît mettant en garde l’utilisateur que des modifications
 "*Le formulaire ci-dessous est différent du formulaire initial.
 Vous avez la possibilité de le réinitialiser à son état avant vos modifications*".
 En effet le travail de l’utilisateur sur le formulaire n’est pas encore enregistré en Base mais uniquement dans une session.
-Tant qu’on n’a pas appuyé sur le bouton "enregistrer" les modifications ne sont pas enregistrées définitivement.
+Tant qu’on n’a pas appuyé sur le bouton `[enregistrer]` les modifications ne sont pas enregistrées définitivement.
 
 Au survol de chaque champ choisi apparaissent 2 boutons d’action : `[Édition/configuration]` `[suppression]`.
 
